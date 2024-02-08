@@ -1,0 +1,37 @@
+nouvel ajout test
+Connectez-vous au dépôt de l'utilisateur B
+Récupérez les changements de l'utilisateur B
+Consultez leur version du dépôt comme une branche locale
+Vérifiez que les changements vous conviennent
+Utilisez git branch pour voir vos branches ; l'astérisque indique celle sur laquelle vous êtes.
+Revenez à votre branche master
+Notez que les fichiers sont dans l'état où vous les avez laissés.
+Fusionnez leur travail dans votre branche master.
+Poussez le travail sur GitHub.
+Faites une autre modification du fichier ; puis ajoutez, commitez et poussez.
+
+
+
+ 
+Utilisateur B
+
+Ajoutez une connexion au dépôt de l'utilisateur A
+Récupérez la dernière version de l'utilisateur A
+Consultez-la comme une branche locale
+Testez les choses
+Revenez à votre master, fusionnez le changement de l'utilisateur A et poussez sur GitHub.
+Utilisateurs A et B
+
+Faites des changements simultanés, puis ajoutez, commitez et poussez.
+
+Utilisateur B
+
+Récupérez le changement de l'utilisateur A
+Revenez à votre branche master et fusionnez le changement de l'utilisateur A.
+Résolvez le conflit de fusion ; puis ajoutez, commitez et poussez.
+Faites une autre pull request
+Utilisateur A
+
+Récupérez le dépôt de l'utilisateur B
+Fusionnez dans votre branche master
+Poussez de nouveau sur GitHub
